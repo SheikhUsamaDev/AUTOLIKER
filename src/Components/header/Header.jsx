@@ -52,7 +52,7 @@ export default function Header() {
                             </div>
                             <div className="profiles">
                                 <ClientProfile/>
-                                <img src="Images/Autoliker.png" alt="" width='4pm0%' />
+                                <img src="Images/Autoliker.png" alt="" width='30%' />
                             </div>
                         </Col>
                         <Col xl='5' className="d-xl-flex d-none">

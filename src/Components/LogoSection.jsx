@@ -55,7 +55,7 @@ export default function LogoSection() {
             </Container>
           </div>
         </div>
-        <div className="image d-xl-flex d-none">
+        <div className="images d-xl-flex d-none">
           <img src="Images/tiktok-right.png" alt="" />
         </div>
       </div>
